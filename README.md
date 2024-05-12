@@ -1,4 +1,5 @@
 # texto_white_HamsterCMS_HTML4_theme
+https://github.com/turboblack/HamsterCMS
 
 this template is special in that it does not have any graphics, it is made exclusively of text symbols
 the template works great on old browsers from the late 90s, such as IE5
