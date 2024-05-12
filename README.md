@@ -2,6 +2,7 @@
 
 this template is special in that it does not have any graphics, it is made exclusively of text symbols
 the template works great on old browsers from the late 90s, such as IE5
+
 Great for an old school project
 
 
